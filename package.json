@@ -2,7 +2,7 @@
     "name": "react-ts-template",
     "private": true,
     "version": "1.0.0",
-    "homepage": "https://hes-e39.github.io/homework-4-bizzyK/",
+    "homepage": "https://bizzyk.github.io/csci-e39-hw4/",
     "type": "module",
     "scripts": {
         "dev": "vite",
